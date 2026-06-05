@@ -13,7 +13,7 @@ Para ejecutar este proyecto de manera local, tener instalado:
 
 2. **Instalar dependencias**:
    Ejecuta el siguiente comando para descargar los paquetes necesarios:
-   ```bash
+   bash
    npm install
 
 3. **Ejecutar el servidor de desarrollo**:
