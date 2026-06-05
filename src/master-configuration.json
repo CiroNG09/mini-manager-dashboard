@@ -1,0 +1,28 @@
+{
+  "modules": [
+    {
+      "id": "moduloBienvenida",
+      "nombre": "Bienvenida Principal",
+      "img_url": "https://cdn.workobot.com/assets/images/welcome-banner.png",
+      "estado": true
+    },
+    {
+      "id": "moduloSoporteTecnico",
+      "nombre": "Soporte Técnico",
+      "img_url": "https://cdn.workobot.com/assets/images/support-icon.png",
+      "estado": true
+    },
+    {
+      "id": "moduloVentas",
+      "nombre": "Portal de Ventas",
+      "img_url": "https://cdn.workobot.com/assets/images/sales_hub.png",
+      "estado": false
+    },
+    {
+      "id": "moduloFaqClientes",
+      "nombre": "Preguntas Frecuentes",
+      "img_url": "https://cdn.workobot.com/assets/images/faq-pix.png",
+      "estado": false
+    }
+  ]
+}
